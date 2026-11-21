@@ -1,0 +1,13 @@
+{
+  "name": "@zaynelovecraft/til",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Engineering field notes & Today I Learned (TIL) by Zayne Lovecraft",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-readme.mjs",
+    "check": "node scripts/build-readme.mjs --check"
+  },
+  "author": "Zayne Lovecraft",
+  "license": "MIT"
+}
